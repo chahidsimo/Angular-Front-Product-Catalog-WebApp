@@ -1,0 +1,36 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Laptop",
+      "price": "7999",
+      "quantity": "12",
+      "selected": true,
+      "available": true
+    },
+    {
+      "id": 2,
+      "name": "Airpods",
+      "price": "2300",
+      "quantity": "12",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "Desktop",
+      "price": "4000",
+      "quantity": "2",
+      "selected": true,
+      "available": true,
+      "id": 4
+    },
+    {
+      "id": 5,
+      "name": "Controller",
+      "price": "340",
+      "quantity": "2",
+      "selected": true,
+      "available": false
+    }
+  ]
+}
